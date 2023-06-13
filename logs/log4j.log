@@ -1,0 +1,17 @@
+[ERROR] 2023-06-10 19:31:09.857 [main] TeacherService - Teacher already exist
+[ERROR] 2023-06-10 21:08:40.937 [main] pooling - Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:postgresql://localhost/encentral_workspace
+[ERROR] 2023-06-10 21:08:41.032 [main] pooling - Connection leak detected: there are 1 unclosed connections
+[ERROR] 2023-06-10 21:15:50.191 [main] pooling - Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:postgresql://localhost/encentral_workspace
+[ERROR] 2023-06-10 21:15:50.284 [main] pooling - Connection leak detected: there are 1 unclosed connections
+[ERROR] 2023-06-10 21:17:38.517 [main] TeacherService - Teacher already exist
+[ERROR] 2023-06-10 22:06:59.701 [main] pooling - Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:postgresql://localhost/encentral_workspace
+[ERROR] 2023-06-10 22:06:59.905 [main] pooling - Connection leak detected: there are 1 unclosed connections
+[ERROR] 2023-06-10 22:11:05.099 [main] pooling - Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:postgresql://localhost/encentral_workspace
+[ERROR] 2023-06-10 22:11:05.354 [main] pooling - Connection leak detected: there are 1 unclosed connections
+[ERROR] 2023-06-10 22:19:02.090 [main] pooling - Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:postgresql://localhost/encentral_workspace
+[ERROR] 2023-06-10 22:19:02.147 [main] pooling - Connection leak detected: there are 1 unclosed connections
+[ERROR] 2023-06-10 22:33:14.386 [main] TeacherService - Teacher already exist
+[ERROR] 2023-06-10 22:35:11.532 [main] TeacherService - Teacher already exist
+[ERROR] 2023-06-11 06:24:35.820 [main] StudentService - Student already exist
+[ERROR] 2023-06-12 10:06:00.360 [main] StudentService - Student already exist
+[ERROR] 2023-06-12 10:07:34.777 [main] TeacherService - Teacher already exist
